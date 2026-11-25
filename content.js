@@ -7,7 +7,7 @@ const portfolio = {
   summary: "用代码把开放数据变成可理解的信息。我专注网页采集、数据清洗与自动化流程。",
   status: "持续充电中",
   location: "中国 · 河南",
-  email: "kaiyang@example.com",
+  email: "18239372512@163.com",
   github: "https://github.com/liuzhenchang123456",
   csdn: "https://www.csdn.net/",
   gitee: "https://gitee.com/",
